@@ -181,4 +181,3 @@ class TimeformatFilter extends DocumentFilter
     }
 }
 
-//using this code make it so when the calculate button is clicked, it
